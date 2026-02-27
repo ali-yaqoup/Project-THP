@@ -1,4 +1,4 @@
-# Upwork Project Description - THP Technical Hiring Platform
+ THP Technical Hiring Platform
 
 ## 🎯 Project Overview
 **THP (Technical Hiring Platform)** is a comprehensive, production-ready Angular web application designed for technical talent management and job posting. This modern web application features a complete job bidding system, user authentication, data visualization, and advanced export capabilities.
